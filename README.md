@@ -1,3 +1,5 @@
+PWNED XDDD
+
 # Vencord
 
 ![](https://img.shields.io/github/package-json/v/Vendicated/Vencord?style=for-the-badge&logo=github&logoColor=d3869b&label=&color=1d2021&labelColor=282828)
